@@ -1,0 +1,3 @@
+class NoPuedoCompletarMisionException inherits Exception{
+    
+}
